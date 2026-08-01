@@ -26,25 +26,27 @@ author:
   avatar           : "Mayank_ahirwar.jpg"
   name             : "Mayank Ahirwar"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate, IIT Jodhpur | Computational Mechanics | Structural Dynamics | Nonlinear Dynamics | Computer Vision"
+  bio              : "PhD, Department of Mechanical, IIT Jodhpur"
   location         : "Jodhpur, Rajasthan, India"
   employer         : "Indian Institute of Technology Jodhpur"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ahirwar.2@iitj.ac.in" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=NAP4mzcAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0006-5290-9103"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
+  linkedin         : "mayank-ahirwar"
+  Github           : "https://github.com/mayank-ahirwar"
 
 
   # Repositories and software development
