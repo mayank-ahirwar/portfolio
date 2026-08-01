@@ -23,7 +23,7 @@ repository               : "mayank-ahirwar/portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Mayank_ahirwar.jpg"
+  avatar           : "mayank_ahirwar.jpeg"
   name             : "Mayank Ahirwar"
   pronouns         : # example: "she/her"  
   bio              : "PhD, Department of Mechanical, IIT Jodhpur"
