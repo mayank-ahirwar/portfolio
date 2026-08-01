@@ -26,7 +26,7 @@ author:
   avatar           : "mayank_ahirwar.jpeg"
   name             : "Mayank Ahirwar"
   pronouns         : # example: "she/her"  
-  bio              : "PhD, Department of Mechanical, IIT Jodhpur"
+  bio              : "PhD, Department of Mechanical Engineering, IIT Jodhpur"
   location         : "Jodhpur, Rajasthan, India"
   employer         : "Indian Institute of Technology Jodhpur"
   uri              : # URL
@@ -46,7 +46,7 @@ author:
   scopus           : # URL
   zotero           : # URL
   linkedin         : "mayank-ahirwar"
-  Github           : "https://github.com/mayank-ahirwar"
+  github           : "mayank-ahirwar"
 
 
   # Repositories and software development
